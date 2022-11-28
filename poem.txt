@@ -1,3 +1,5 @@
 VIBGYOR
 
+ROYGBIV
+
 colors of the rainbow
